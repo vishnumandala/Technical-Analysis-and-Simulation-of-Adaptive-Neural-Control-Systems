@@ -11,7 +11,7 @@
 ## Contents
 - vishnu_rohit_report.pdf
 - vishnu_rohit_presentation.pptx
-- vishnu_rohit_readme.md
+- README.md
 - DelayNN_s.m
 - DelayNN.m
 - Adaptive Neural Control (Original Paper).pdf
