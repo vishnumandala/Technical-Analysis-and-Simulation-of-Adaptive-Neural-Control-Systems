@@ -34,3 +34,20 @@ The scripts simulate the results obtained in the paper 'Adaptive Neural Control 
 1. Run the provided MATLAB script: DelayNN_s.m
 2. The script will perform the simulation and display four graphs.
 3. Uncomment lines 2 and 3 after the first run.
+
+### Outputs
+
+Figure 1  
+![Figure 1](https://github.com/vishnumandala/Technical-Analysis-and-Simulation-of-Adaptive-Neural-Control-Systems/blob/main/figure1.jpg)
+
+Figure 2  
+![Figure 2](https://github.com/vishnumandala/Technical-Analysis-and-Simulation-of-Adaptive-Neural-Control-Systems/blob/main/figure2.jpg)
+
+Figure 3  
+![Figure 3](https://github.com/vishnumandala/Technical-Analysis-and-Simulation-of-Adaptive-Neural-Control-Systems/blob/main/figure3.jpg)
+
+Figure 4  
+![Figure 4](https://github.com/vishnumandala/Technical-Analysis-and-Simulation-of-Adaptive-Neural-Control-Systems/blob/main/figure4.jpg)
+
+### Simulation
+![](https://github.com/vishnumandala/Technical-Analysis-and-Simulation-of-Adaptive-Neural-Control-Systems/blob/main/simulation.gif)
